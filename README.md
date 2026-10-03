@@ -1,0 +1,2 @@
+# Factorial
+ A simple Java program to calculate the factorial of a given number.
